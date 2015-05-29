@@ -4,3 +4,4 @@ spring.data.mongodb:
   host: mongodb-947fabfc-1.tiagodeoliveira.cont.tutum.io
   username: admin
   password: osit5xv1pPqz
+  authentication-database: admin
