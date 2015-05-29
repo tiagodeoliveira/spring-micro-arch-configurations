@@ -8,4 +8,4 @@ spring.rabbitmq:
   username: admin
   password: Ua2Zm5b2A6xT
   exchange: amq.direct
-logging.level.org.springframework: INFO
+logging.level.org.springframework: DEBUG
