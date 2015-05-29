@@ -1,2 +1,3 @@
 ---
 server.port: 40082
+spring.data.mongodb.host: mongodb-947fabfc-1.tiagodeoliveira.cont.tutum.io
